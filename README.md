@@ -1,2 +1,2 @@
 # repositorio
-Repositório teste para aula Code school 
+Repositório teste para aula Code school.
